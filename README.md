@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning some of Javascript <br>Framework like React Js and Node Js.<br><br> I think it's almost done and i gone a start new <br>Project on MERN.<br><br>I think I can go with the eCommerce<br>application.
+I'm currently learning some of Javascript <br>Framework like React Js and Node Js.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Viditjoshi07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidit-joshi-9828aa255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
