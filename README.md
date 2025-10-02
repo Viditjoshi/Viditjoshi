@@ -1,5 +1,5 @@
 <br clear="both">
-<h1 align="center">👋 Hi, I'm Vidit Joshi — a 🇮🇳 Full Stack Developer from India, passionate about building 🌐 web apps that are fast, functional, and beautiful.</h1>
+<h1 align="center">👋 Hi, I'm Vidit Joshi — passionate about building 🌐 web apps that are fast, functional, and beautiful.</h1>
 
 ###
 
