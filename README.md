@@ -1,9 +1,6 @@
-<br clear="both">
+
 <h1 align="center">👋 Hi, I'm Vidit Joshi </h1>
-<h2 align="center">passionate about building 🌐 web & mobile apps that are fast, functional, and meaning full</h2>
-
-###
-
+<h2 align="center">Passionate about building 🌐 web & mobile apps that are fast, functional, and meaning full</h2>
 <br clear="both">
 
 <div align="center">
