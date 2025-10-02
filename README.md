@@ -1,15 +1,4 @@
-<img align="left" height="230" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/mlOsD0CKYjUAAAAM/code-programming.gif"  />
-</div>
-
-###
-
 <br clear="both">
-
 <h1 align="center">👋 Hi, I'm Vidit Joshi — a 🇮🇳 Full Stack Developer from India, passionate about building 🌐 web apps that are fast, functional, and beautiful.</h1>
 
 ###
