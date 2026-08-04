@@ -1,12 +1,5 @@
-
 <h1 align="center">👋 Hi, I'm Vidit Joshi </h1>
-<h2 align="center">Passionate about building 🌐 web & mobile apps that are fast, functional, and meaning full</h2>
 <br clear="both">
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
